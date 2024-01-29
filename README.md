@@ -20,7 +20,7 @@ Design patterns, clean code, ddd..
 
 ## Contact
 
-- 📧 You can reach out to me via email at [vallejos_pablo@pablo].
+- 📧 You can reach out to me via email at [vallejos_pablo@live.com].
 - 💼 Connect with me on LinkedIn: https://www.linkedin.com/in/pablo-vallejos-ing
 
 Feel free to explore my repositories and drop me a message if you have any questions or suggestions! I'm excited to share knowledge and collaborate on interesting projects. 😊
