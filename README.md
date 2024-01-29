@@ -1,31 +1,31 @@
 ### Hi there 👋
 
-# ¡Hola! 👋 Soy Pablo Vallejos
+# Hello! 👋 I'm Pablo Vallejos
 
-¡Bienvenido/a a mi rincón en GitHub! Soy Pablo vallejos, un/a apasionado/a del desarrollo y la ingeniería de sistemas. Originario/a de [Tu País], actualmente trabajo como [Tu Rol] en [@TuCompañia].
+Welcome to my corner on GitHub! I'm Pablo Vallejos, a passionate developer and systems engineer. Originally from [Your Country], I currently work as [Your Role] at [@YourCompany].
 
-## Sobre mí
+## About Me
 
-- 🌎 Soy de [Tu Ciudad, Tu País].
-- 🚀 Actualmente trabajo como [Tu Rol] en [Nombre de tu Empresa].
-- 🎙️ También tengo un canal de YouTube (en español) donde comparto contenido sobre tecnologías SRE, Docker, Kubernetes, ¡y más! Puedes visitarlo [aquí](enlace-del-canal).
-- 💼 Ofrezco horas de consultoría, puedes encontrar un horario disponible [aquí](enlace-de-consultoria).
+- 🌎 I'm from [Your City, Your Country].
+- 🚀 Currently working as [Your Role] at [Your Company Name].
+- 🎙️ I also have a YouTube channel where I share content in Spanish about SRE technologies, Docker, Kubernetes, and more! You can check it out [here](link-to-channel).
+- 💼 I offer consulting hours, and you can find available slots [here](consulting-link).
 
-## Habilidades
+## Skills
 
-- 💻 Utilizando Kubernetes en producción desde 2016.
-- ☁️ Experiencia en AWS, Terraform, Docker y todas las cosas relacionadas con la nube.
-- 🤔 Habilidades de pensamiento crítico, toma de decisiones y resolución de problemas.
-- 🐍 Algo de programación en Python.
-- 🚀 Experiencia especializada en startups de rápido crecimiento.
+- 💻 Using Kubernetes in production since 2016.
+- ☁️ Experience in AWS, Terraform, Docker, and all things cloud-related.
+- 🤔 Critical thinking, decision-making, and problem-solving skills.
+- 🐍 Some programming in Python.
+- 🚀 Specialized experience in fast-growing startups.
 
-## Contacto
+## Contact
 
-- 📧 Puedes contactarme por correo electrónico: [tu@email.com]
-- 🐦 Encuéntrame en Twitter: [@tu_usuario]
-- 💼 Conéctame en LinkedIn: [Tu Perfil de LinkedIn]
+- 📧 You can reach out to me via email at [your@email.com].
+- 🐦 Find me on Twitter: [@your_username]
+- 💼 Connect with me on LinkedIn: [Your LinkedIn Profile]
 
-¡No dudes en explorar mis repositorios y ponerme un mensaje si tienes alguna pregunta o sugerencia! Estoy emocionado/a de compartir conocimientos y colaborar en proyectos interesantes. 😊
+Feel free to explore my repositories and drop me a message if you have any questions or suggestions! I'm excited to share knowledge and collaborate on interesting projects. 😊
 
 ---
-**¡Gracias por visitar mi perfil!** 🚀
+**Thanks for visiting my profile!** 🚀
