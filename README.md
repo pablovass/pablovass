@@ -8,7 +8,7 @@ Welcome to my corner on GitHub! I'm Pablo Vallejos, a passionate developer and s
 
 - 🌎 I'm from Cordoba, Argentina.
 - 🚀 Currently working as Software Developer in Telecomunication Company
-- 🎙️ I also have a YouTube channel where I share content in Spanish about Java, Docker, Kubernetes, and more! You can check it out [here](https://www.youtube.com/channel/UChz1shJXya1lJXh-7zMSG9A).
+- 🎙️ I also have a YouTube channel where I share content in Spanish about Java, Docker, Kubernetes, and more! You can check it out [here](https://www.youtube.com/@PabloVallejos).
 - 💼 I offer consulting hours, and you can find available slots [here](https://www.linkedin.com/in/pablo-vallejos-ing/).
 
 ## Skills
