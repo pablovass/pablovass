@@ -1,29 +1,36 @@
-### Hi there 👋
+# Hi there 👋
 
-# Hello! 👋 I'm Pablo Vallejos
+## I'm Pablo Vallejos – Senior Java Software Engineer
 
-Welcome to my corner on GitHub! I'm Pablo Vallejos, a passionate developer and systems engineer. Originally from Argentina, I currently work as Software developer in telecomunication company.
-
-## About Me
-
-- 🌎 I'm from Catamarca, Argentina.
-- 🚀 Currently working as Software Developer in Telecomunication Company
-- 🎙️ I also have a YouTube channel where I share content in Spanish about Java, Docker, Kubernetes, and more! You can check it out [here](https://www.youtube.com/PabloVallejos).
-- 💼 I offer consulting hours, and you can find available slots [here](https://www.linkedin.com/in/pablo-vallejos-ing/).
-
-## Skills
-
-- 💻 Managing Java with Spring Boot since 2016.
-- ☁️ Cloud computing with OpenShift, kubernetes, Docker since 2020. 
-Design patterns, clean code, ddd..
-- 🚀 React since 2020.
-
-## Contact
-
-- 📧 You can reach out to me via email at [vallejos_pablo@live.com].
-- 💼 Connect with me on LinkedIn: https://www.linkedin.com/in/pablo-vallejos-ing
-
-Feel free to explore my repositories and drop me a message if you have any questions or suggestions! I'm excited to share knowledge and collaborate on interesting projects. 😊
+Welcome to my GitHub! I'm a Senior Java Developer from Argentina with over nine years of experience designing, building, and maintaining robust backend systems. My work focuses on high-quality code, clean architecture, and resilient microservices, primarily in banking and telecommunications environments.
 
 ---
-**Thanks for visiting my profile!** 🚀
+
+## 🚀 About Me
+
+- 🇦🇷 Based in Catamarca, Argentina
+- 💼 Currently working as Senior Java Software Engineer (Integration Lead) for Bci, a Chilean investment bank
+- 🎯 Passionate about designing clean, maintainable, production-ready software
+- 🌍 Open to remote opportunities with English-speaking teams
+
+---
+
+## 💻 Technical Skills
+
+- **Languages & Frameworks**: Java (Spring Boot since 2016)
+- **Architecture & Practices**: Clean Code, Hexagonal Architecture, DDD, TDD
+- **Testing**: JUnit, Spock, Cucumber, Jacoco
+- **Cloud & Infrastructure**: Kubernetes (AKS, OpenShift), Docker, Azure, AWS
+- **Other**: Kafka, Jenkins, MongoDB, Oracle, IBM Db2
+- **Frontend (secondary experience)**: React, Node.js, TypeScript
+
+---
+
+## 📬 Contact
+
+- 📧 [vallejos_pablo@live.com](mailto:vallejos_pablo@live.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pablo-vallejos-ing)
+
+---
+
+Feel free to explore my repositories, reach out for collaboration, or connect for remote opportunities. I'm always looking to contribute to challenging projects with clean, reliable, and scalable Java solutions.
