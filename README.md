@@ -26,6 +26,7 @@ Welcome to my GitHub! I'm a Senior Java Developer from Argentina with over nine 
 
 ---
 ⚠️ Note: Most of my professional projects are private. This GitHub showcases personal, academic, and exploratory work with a strong focus on learning and experimentation.
+
 ---
 ## 📬 Contact
 
@@ -34,4 +35,4 @@ Welcome to my GitHub! I'm a Senior Java Developer from Argentina with over nine 
 
 ---
 
-Feel free to explore my repositories, reach out for collaboration, or connect for remote opportunities. I'm always looking to contribute to challenging projects with clean, reliable, and scalable Java solutions.
+Feel free to explore my repositories, reach out for collaboration, or connect for remote opportunities.
