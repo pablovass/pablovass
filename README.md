@@ -25,7 +25,8 @@ Welcome to my GitHub! I'm a Senior Java Developer from Argentina with over nine 
 - **Frontend (secondary experience)**: React, Node.js, TypeScript
 
 ---
-
+⚠️ Note: Most of my professional projects are private. This GitHub showcases personal, academic, and exploratory work with a strong focus on learning and experimentation.
+---
 ## 📬 Contact
 
 - 📧 [vallejos_pablo@live.com](mailto:vallejos_pablo@live.com)
